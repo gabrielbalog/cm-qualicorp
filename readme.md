@@ -24,9 +24,9 @@ npm start
 
 ## Demo
 
-The API is live at [devcamper.io](https://devcamper.io)
+The API is live at [cm-qualicorp.herokuapp.com/](https://cm-qualicorp.herokuapp.com/)
 
-Extensive documentation with examples [here](https://documenter.getpostman.com/view/8923145/SVtVVTzd?version=latest)
+Extensive documentation with examples [here](https://documenter.getpostman.com/view/5103714/T17DiVBT?version=latest)
 
 - Version: 1.0.0
 - License: MIT

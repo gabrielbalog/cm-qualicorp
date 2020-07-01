@@ -10,11 +10,11 @@
       </p>
       <p>
         The link of the project can be found
-        <a href>here</a>.
+        <a href="https://github.com/gabrielbalog/cm-qualicorp">here</a>.
       </p>
       <p>
         The postman documentation can be found
-        <a href>here</a>.
+        <a href="https://documenter.getpostman.com/view/5103714/T17DiVBT?version=latest">here</a>.
       </p>
     </div>
     <h2>Features</h2>
